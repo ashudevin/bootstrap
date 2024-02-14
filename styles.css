@@ -1,0 +1,21 @@
+.card{
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    display: inline-block;
+}
+
+body{
+    background-color: wheat;
+}
+
+/* .table{ */
+    padding: 30px;
+    /* width: 70vw; */
+    /* justify-self: center; */
+    /* justify-content: center; */
+    background-color: brown;
+    display: flex;
+    /* display: ; */
+    /* margin: 30px; */
+}
